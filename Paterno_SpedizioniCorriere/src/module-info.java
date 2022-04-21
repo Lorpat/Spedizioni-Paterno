@@ -1,0 +1,2 @@
+module Paterno_SpedizioniCorriere {
+}
